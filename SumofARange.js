@@ -1,3 +1,5 @@
+//range function takes two arguments, start and end, and returns an array containing all the numbers from start up to (and including) end. sum function takes an array of numbers and returns the sum of these numbers
+
 a = range(5,2,-1);
 console.log(a);
 
