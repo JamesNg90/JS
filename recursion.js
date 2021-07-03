@@ -1,3 +1,5 @@
+// The function should accept a single parameter (a positive, whole number) and return a Boolean.
+
 console.log(iseven(-1));
 
 function iseven(x){
