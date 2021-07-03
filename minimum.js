@@ -1,3 +1,5 @@
+// takes two arguments and returns their minimum
+
 min(9,9);
 
 function min(a,b){
