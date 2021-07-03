@@ -23,3 +23,5 @@ sum function takes an array of numbers and returns the sum of these numbers
 8. ReversingAnArray.js: reverseArray, takes an array as argument and produces a new array that has the same elements in the inverse order. 
 reverseArrayInPlace, does what the reverse method does: it modifies the array given as argument by reversing its elements. 
 Neither may use the standard reverse method.
+
+9. Flattening.js: Use the reduce method in combination with the concat method to “flatten” an array of arrays into a single array that has all the elements of the original arrays.
