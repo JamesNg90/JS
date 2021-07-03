@@ -1,3 +1,6 @@
+// This one returns true when the given function returns true for every element in the array. Implement every as a function that takes an array and a predicate function as parameters. Write two versions, one using a loop and one using the some method.
+
+
 // 1st version using a loop
 function everyloop(array,test){
     let result = true;
