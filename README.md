@@ -16,3 +16,6 @@ print "FizzBuzz" for numbers that are divisible by both 3 and 5 (and still print
 5. minimum.js: takes two arguments and returns their minimum
 
 6. recursion.js: The function should accept a single parameter (a positive, whole number) and return a Boolean.
+
+7. SumofARange.js: range function takes two arguments, start and end, and returns an array containing all the numbers from start up to (and including) end.
+sum function takes an array of numbers and returns the sum of these numbers
