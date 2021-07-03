@@ -4,7 +4,6 @@ takes a second argument that indicates the character that is to be counted.
 
 2. ChessBoard.js: creates a string that represents an n×n grid, using newline characters to separate lines. 
 At each position of the grid there is either a space or a "#" character. The characters should form a chessboard.
-Passing this string to console.log should show something like this:
 
 3. FizzBuzz.js: uses console.log to print all the numbers from 1 to 100, with two exceptions. 
 For numbers divisible by 3, print "Fizz" instead of the number, 
