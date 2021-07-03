@@ -1,3 +1,5 @@
+// takes a string as its argument and returns a number that indicates how many specified characters there are in the string. takes a second argument that indicates the character that is to be counted.
+
 countChar("abcskfasfBBB",a);
 
 function countChar(string,Char) {
